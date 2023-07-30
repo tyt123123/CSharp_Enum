@@ -1,0 +1,7 @@
+D:\CODES\Rd code\CSharp_Enum\Ref And Out\obj\Debug\Ref And Out.csproj.AssemblyReference.cache
+D:\CODES\Rd code\CSharp_Enum\Ref And Out\obj\Debug\Ref And Out.csproj.SuggestedBindingRedirects.cache
+D:\CODES\Rd code\CSharp_Enum\Ref And Out\obj\Debug\Ref And Out.csproj.CoreCompileInputs.cache
+D:\CODES\Rd code\CSharp_Enum\Ref And Out\bin\Debug\Ref_And_Out.exe
+D:\CODES\Rd code\CSharp_Enum\Ref And Out\bin\Debug\Ref_And_Out.pdb
+D:\CODES\Rd code\CSharp_Enum\Ref And Out\obj\Debug\Ref_And_Out.exe
+D:\CODES\Rd code\CSharp_Enum\Ref And Out\obj\Debug\Ref_And_Out.pdb

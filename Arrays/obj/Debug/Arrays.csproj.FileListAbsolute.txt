@@ -1,0 +1,7 @@
+D:\CODES\Rd code\CSharp_Enum\Arrays\bin\Debug\Arrays.exe
+D:\CODES\Rd code\CSharp_Enum\Arrays\bin\Debug\Arrays.pdb
+D:\CODES\Rd code\CSharp_Enum\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+D:\CODES\Rd code\CSharp_Enum\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+D:\CODES\Rd code\CSharp_Enum\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\CODES\Rd code\CSharp_Enum\Arrays\obj\Debug\Arrays.exe
+D:\CODES\Rd code\CSharp_Enum\Arrays\obj\Debug\Arrays.pdb

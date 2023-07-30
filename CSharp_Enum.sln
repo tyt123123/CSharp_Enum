@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Enum", "CSharp_Enum\CSharp_Enum.csproj", "{4CBD0880-6DF5-428B-B925-B0FF577427EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{404962CE-36AD-4116-B666-7576B33AF040}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ref And Out", "Ref And Out\Ref And Out.csproj", "{A70EBD83-EE9E-49C3-B960-6E857E623217}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CBD0880-6DF5-428B-B925-B0FF577427EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CBD0880-6DF5-428B-B925-B0FF577427EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CBD0880-6DF5-428B-B925-B0FF577427EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CBD0880-6DF5-428B-B925-B0FF577427EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{404962CE-36AD-4116-B666-7576B33AF040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404962CE-36AD-4116-B666-7576B33AF040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404962CE-36AD-4116-B666-7576B33AF040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404962CE-36AD-4116-B666-7576B33AF040}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A70EBD83-EE9E-49C3-B960-6E857E623217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A70EBD83-EE9E-49C3-B960-6E857E623217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A70EBD83-EE9E-49C3-B960-6E857E623217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A70EBD83-EE9E-49C3-B960-6E857E623217}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+D:\CODES\Rd code\CSharp_Enum\CSharp_Enum\bin\Debug\CSharp_Enum.exe
+D:\CODES\Rd code\CSharp_Enum\CSharp_Enum\bin\Debug\CSharp_Enum.pdb
+D:\CODES\Rd code\CSharp_Enum\CSharp_Enum\obj\Debug\CSharp_Enum.csproj.AssemblyReference.cache
+D:\CODES\Rd code\CSharp_Enum\CSharp_Enum\obj\Debug\CSharp_Enum.csproj.SuggestedBindingRedirects.cache
+D:\CODES\Rd code\CSharp_Enum\CSharp_Enum\obj\Debug\CSharp_Enum.csproj.CoreCompileInputs.cache
+D:\CODES\Rd code\CSharp_Enum\CSharp_Enum\obj\Debug\CSharp_Enum.exe
+D:\CODES\Rd code\CSharp_Enum\CSharp_Enum\obj\Debug\CSharp_Enum.pdb
